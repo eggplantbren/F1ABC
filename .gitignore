@@ -1,0 +1,8 @@
+main
+output/dnest5.db
+output/dnest5.db-shm
+output/dnest5.db-wal
+output/posterior.csv
+output/posterior.db
+output/results.yaml
+postprocess
