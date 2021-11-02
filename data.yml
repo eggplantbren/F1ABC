@@ -3,7 +3,7 @@
 teams:
     - "Ferrari"
     - "Mercedes"
-people:
+drivers:
     -
         "name": "Lewis Hamilton"
         "team": "Mercedes"
