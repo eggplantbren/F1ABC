@@ -1,0 +1,24 @@
+# A fake dataset
+---
+teams:
+    - "Ferrari"
+    - "Mercedes"
+people:
+    -
+        "name": "Lewis Hamilton"
+        "team": "Mercedes"
+    -
+        "name": "Carlos Sainz"
+        "team": "Ferrari"
+races:
+    - "Melbourne"
+    - "Monaco"
+results:
+    -
+        "race": "Melbourne"
+        "result": {"finished": ["Carlos Sainz", "Lewis Hamilton"],
+                   "unfinished": []}
+    -
+        "race": "Monace"
+        "result": {"finished": ["Lewis Hamilton"],
+                   "unfinished": ["Carlos Sainz"]}
